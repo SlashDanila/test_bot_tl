@@ -1,3 +1,4 @@
+lang="python"
 from types import prepare_class
 import telebot
 import config
